@@ -1,0 +1,12 @@
+theme ="solarized_light"
+
+[editor]
+line-number = "relative"
+auto-pairs = false
+
+
+[editor.file-picker]
+hidden = false 
+
+[editor.lsp]
+display-inlay-hints = true
